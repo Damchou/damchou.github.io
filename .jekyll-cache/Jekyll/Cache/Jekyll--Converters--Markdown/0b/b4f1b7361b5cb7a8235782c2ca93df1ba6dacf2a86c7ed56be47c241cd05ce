@@ -1,0 +1,23 @@
+I"o<p><img src="images/vog-title.png" alt="Victims of Gravity" /></p>
+
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Ulxa5mWuH8M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+
+<ul>
+  <li><a href="https://github.com/Half-Bent/Victims-of-Gravity-code">Link to GitHub repository</a></li>
+  <li><a href="https://www.assembly.org/summer18/demoscene/game-dev">Link to the game</a></li>
+</ul>
+
+<p><strong>Victims of Gravity</strong> is a local-multiplayer party game, where you skydive with your friends and fight for the parachute to not become a victim of gravity.</p>
+
+<p>This was originally developed for <strong>Assembly Summer 2018</strong> effectively in single month (not including some preliminary design process and brainstorming). This won 3rd place in Hatch Party competition and 8th place in Assembly game development competition.</p>
+
+<p>We (<a href="https://github.com/Half-Bent">Half Bent</a>) were a team of two; I programmed alongside with <a href="https://github.com/sammuttaja">Anton Rautanen</a> and also created game’s graphics.</p>
+
+<blockquote>
+  <p>Jump right in to the chaos of skydiving. Your mission is not to become a victim of gravity. That is difficult because you forgot your working parachute at home. No worries though, the kind plane pilot dropped on for you all. If only you could hold on to it at the end.</p>
+
+  <p>And not to make things too easy, there is a ton of obstacles to avoid while enjoying the views.</p>
+</blockquote>
+
+<p><img src="images/vog.png" alt="VoG" /></p>
+:ET

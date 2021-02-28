@@ -1,0 +1,19 @@
+I"(<h1 id="repair-ahoy-global-game-jam-2020">Repair Ahoy (Global Game Jam 2020)</h1>
+
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/xFi6Ic_uCyU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+
+<ul>
+  <li><a href="https://github.com/Half-Bent/GGJ2020">Link to GitHub repository</a></li>
+  <li><a href="https://globalgamejam.org/2020/games/repair-ahoy-9">Link to the game</a></li>
+</ul>
+
+<p><strong>Repair Ahoy</strong> is a singleplayer/local-coop game, where you have to repair broken stuff to advance to the next room. Complete all rooms before timer runs out to win.</p>
+
+<p>The game was our (<a href="https://github.com/Half-Bent">Half Bent</a>) outcome in the <strong>Global Game Jam 2020</strong>. And it was also my first game jam. I helped <a href="https://github.com/sammuttaja">Anton Rautanen</a> with the code and did graphics for the game.</p>
+
+<blockquote>
+  <p>You’re on a ship, trying to keep it afloat by fixing each room before the ship, you and the captain sinks. Player 1 uses WASD to move and Space to repair. Player 2 uses game controller’s left joystick to move and X/A to repair.</p>
+</blockquote>
+
+<p><img src="images/repair-ahoy2.png" alt="GGJ2020" /></p>
+:ET
