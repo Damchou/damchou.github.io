@@ -12,6 +12,8 @@ layout: default
 
 This is a game project for courses "_Introduction to Game Development Tools_" and "_Project Course on Game Development_" at the University of Turku. This was showcased in ICT Showroom 2021 (student project exhibition and competition) in Turku as a part of the latter course.
 
-I've been programming mechanics, designing and developing the UI, and fetched some free sound effects for the game.
+I've been programming mechanics, designing and developing the UI, and fetched some free sound effects for the game. I had the most Unity experience in the team so I also helped others with Unity-related issues and basics.
+
+I learned to create more designer-friendly scripts for easier use of the inspector. UI was also my main focus in this project which improved my hierarchy-management (as the game was mostly UI, the hierarchy window was full of nested UI elements) and discovered Canvas Groups. This project improved my overall Unity expertise and I feel more confident using different aspects of Unity.
 
 ![NYS](images/nth-year-student2.png)
